@@ -5,7 +5,7 @@ My first repository.
 
 # Naruto Series :ramen:
 
-![Naruto Shippuden Key Visual](https://naruto-official.com/en/special/anime-gallery)
+![Naruto Shippuden Key Visual](https://naruto-official.com)
 
 > "Believe it!" is the catchphrase of the series' hero, but its real message is never giving up on your dreams.
 
