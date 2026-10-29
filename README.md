@@ -29,10 +29,10 @@ Naruto Uzumaki is a young ninja from the **Hidden Leaf Village (Konoha)**. Seale
 
 Despite his lonely life, Naruto dreams of becoming **Hokage**, the strongest ninja and leader of the village. Along the way he:
 
-1. Enrolls in the ninja academy and becomes a Genin
-2. Forms **Team 7** with Sasuke Uchiha and Sakura Haruno under their teacher, Kakashi Hatake
-3. Faces powerful rivals and the criminal organization **Akatsuki**
-4. Fights to protect his friends and bring peace to the ninja world
+1. Enrolls in the ninja academy and becomes a Genin.
+2. Forms **Team 7** with Sasuke Uchiha and Sakura Haruno under their teacher, Kakashi Hatake.
+3. Faces powerful rivals and the criminal organization **Akatsuki**.
+4. Fights to protect his friends and bring peace to the ninja world.
 
 [^1]: The fox is sealed within him by the Fourth Hokage, his father.
 
@@ -42,10 +42,10 @@ Despite his lonely life, Naruto dreams of becoming **Hokage**, the strongest nin
 
 ### Team 7
 
-- **Naruto Uzumaki**: the hyperactive, determined hero who dreams of becoming Hokage
-- **Sasuke Uchiha**: a gifted, brooding rival from the Uchiha clan, driven by revenge
-- **Sakura Haruno**: a smart kunoichi with excellent chakra control and medical skills
-- **Kakashi Hatake**: their teacher, known as the "Copy Ninja"
+- **Naruto Uzumaki**: The determined hero who dreams of becoming Hokage.
+- **Sasuke Uchiha**: A gifted rival from the Uchiha clan, driven by revenge.
+- **Sakura Haruno**: A smart kunoichi with excellent chakra control and medical skills.
+- **Kakashi Hatake**: Their teacher, known as the "Copy Ninja".
 
 ### Other Notable Characters
 
@@ -92,7 +92,7 @@ Ninja use **chakra** to perform techniques called *jutsu*.
 
 <dl>
   <dt>Hokage</dt>
-  <dd>The leader of a hidden village and its strongest ninja.</dd>
+  <dd>The leader of Konoha (Hidden Leafe Village) and its strongest ninja.</dd>
 
   <dt>Chakra</dt>
   <dd>The energy ninja use to perform jutsu.</dd>
@@ -117,14 +117,15 @@ The five basic nature types are:
 
 ## Things I Love About the Series
 
-- [x] The strong themes of friendship and hard work
-- [x] The epic ninja battles
-- [x] Memorable characters and their growth
+- [x] The strong themes of friendship and hard work.
+- [x] The epic ninja battles.
+- [x] Memorable characters and their growth.
 
 ---
 
 ## Fun Fact :zap:
 
-Naruto's signature orange outfit helps him stand out, which fits someone who wants everyone in the village to notice him.
+Naruto's signature orange outfit helps him stand out, which fits someone who wants everyone in the village to notice him. 🟠
+The name "Naruto" means a whirlpool or swirling spiral, and it is also short for narutomaki; a fish cake used as a ramen topping. 🍥🍜
 
 --
