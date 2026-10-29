@@ -5,7 +5,7 @@ My first repository.
 
 # Naruto Series :ramen:
 
-![Naruto Shippuden Key Visual](https://naruto-official.com)
+<img width="985" height="1478" alt="Naruto_Shippuden_new JPG" src="https://github.com/user-attachments/assets/23a724a0-b6d9-4459-b6e2-0fd2685a6964" />
 
 > "Believe it!" is the catchphrase of the series' hero, but its real message is never giving up on your dreams.
 
@@ -25,7 +25,7 @@ My first repository.
 
 ## Synopsis
 
-Naruto Uzumaki is an energetic young ninja from the **Hidden Leaf Village (Konoha)**. Sealed inside him is the **Nine-Tailed Fox**, a monster that once attacked the village. Because of this, the villagers shun him as a child.[^1]
+Naruto Uzumaki is a young ninja from the **Hidden Leaf Village (Konoha)**. Sealed inside him is the **Nine-Tailed Fox**, a monster that once attacked the village. Because of this, the villagers shun him as a child.[^1]
 
 Despite his lonely life, Naruto dreams of becoming **Hokage**, the strongest ninja and leader of the village. Along the way he:
 
