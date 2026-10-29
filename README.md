@@ -80,21 +80,11 @@ Ninja use **chakra** to perform techniques called *jutsu*.
 
 ### Famous Techniques
 
-1. `Shadow Clone Jutsu`: creates solid copies of the user
-2. `Rasengan`: a spinning sphere of chakra
-3. `Chidori`: a lightning-based piercing attack
-4. `Sage Mode`: draws on natural energy for a huge power boost
-5. `Amaterasu`: black flames that burn almost anything
-
-Example of how a jutsu might be written as code:
-
-```python
-def shadow_clone_jutsu(chakra, clones):
-    cost = chakra * clones
-    print(f"Created {clones} clones using {cost} chakra!")
-
-shadow_clone_jutsu(100, 5)
-```
+1. `Shadow Clone Jutsu`: Creates solid copies of the user.
+2. `Rasengan`: A spinning sphere of chakra.
+3. `Chidori`: A lightning-based piercing attack.
+4. `Sage Mode`: Draws on natural energy for a huge power boost.
+5. `Amaterasu`: Black flames that burn almost anything.
 
 ---
 
