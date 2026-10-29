@@ -125,7 +125,7 @@ The five basic nature types are:
 
 ## Fun Fact :zap:
 
-Naruto's signature orange outfit helps him stand out, which fits someone who wants everyone in the village to notice him. 🟠
-The name "Naruto" means a whirlpool or swirling spiral, and it is also short for narutomaki; a fish cake used as a ramen topping. 🍥🍜
+- Naruto's signature orange outfit helps him stand out, which fits someone who wants everyone in the village to notice him. 🟠
+- The name "Naruto" means a whirlpool or swirling spiral, and it is also short for narutomaki; a fish cake used as a ramen topping. 🍥🍜
 
 --
